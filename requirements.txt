@@ -7,4 +7,3 @@ matplotlib
 ultralytics
 lapx>=0.5.2
 streamlit
-cv2
